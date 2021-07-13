@@ -1,0 +1,3 @@
+[submodule "SubmoduleRepository_Khairullin"]
+	path = SubmoduleRepository_Khairullin
+	url = git@github.com:ArthurKhairullin21/SubmoduleRepository_Khairullin.git
