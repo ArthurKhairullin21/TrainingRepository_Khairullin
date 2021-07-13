@@ -1,0 +1,2 @@
+# TrainingRepository_Khairullin
+Test
